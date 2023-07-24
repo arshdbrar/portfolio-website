@@ -55,7 +55,7 @@ button:hover {
 }
 
 .button:focus {
-    border: 2px solid #800080;
+    border: 2px solid#800080;
     cursor: pointer;
     opacity: 0.7;
 }
